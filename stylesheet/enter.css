@@ -1,0 +1,214 @@
+#topnav ul{
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+#topnav ul li{
+  display: block;
+  position: relative;
+  float: right;
+  width: 13%;
+  align-items: center;
+}
+#topnav li ul{
+  display: none;
+}
+#topnav ul li a{
+   font-family:'Abril Fatface', cursive;
+  display: block;
+ padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  font-size: 2rem;
+  color: white;
+  white-space: nowrap;
+}
+#topnav ul li a:hover{
+  font-size: 22px;
+text-decoration: underline;
+
+}
+#topnav li:hover ul{
+  display: block;
+  position: absolute;
+}
+#topnav li:hover li{
+  float: none;
+}
+
+#topnav li:hover li a:hover
+{
+  font-size: 15px;
+}
+#topnav li ul li a{
+  border-top: 0px;
+  font-size: 18px;
+}
+#topnav #drop ul li ul{
+  position: relative;
+  z-index: 999;
+}
+
+#body1
+{
+  background-image: url("../images/back3.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+#navigation li a{
+  font-size:2rem;
+  font-family: 'Bangers';
+  color:white;
+}
+.active li a:hover{
+    font-size:2rem;
+    font-variant: large-capital;
+background-color: #4CAF50;
+ color: white;
+
+}
+.back{
+   background-image:url('../images/IMAGES/kali-river.jpg');
+   background-size:cover;
+   background-position:center;
+   background-repeat: no-repeat;
+   height: 100vh;
+   width:100%
+
+
+}
+
+
+ #heading1{
+   font-family:'Abril Fatface', cursive;
+   font-family: 'Bangers';font-size: 35px;
+
+   font-size:7rem;
+   text-align: center;
+   margin: 0;
+ color: white;
+}
+.back{
+  /*  background-image:url('../images/IMAGES/kali-river.jpg');*/
+    background-color: 'pink';
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width:100%
+
+
+}
+.container{
+    background-image:url('../images/IMAGES/back3.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height: 100vh;
+    width:150%
+
+
+}
+
+
+.btn{
+  font-size:5rem;
+  padding:10px 20px;
+  margin-left: 62rem;
+}
+ .h1{
+  /* margin-left: 27rem;*/
+ margin-top:20rem;
+  color: blue;
+  font-family: 'Bangers';font-size: 35px;
+    text-align: center;
+
+
+}
+.h2{
+  font-family: 'Marck script';
+  font-size: 35px;
+  color:red;
+   /*margin-left: 3rem;*/
+     text-align: center;
+}
+.b
+{
+  margin-top:10rem;
+  margin-left: centre;
+
+}
+.b{
+  color:black;
+}
+
+#heading{
+  font-family:'Roboto', sans-serif;
+  font-size:7rem;
+  text-align: center;
+  margin: 0;
+color: black;
+}
+
+#info{
+  font-family:'Farsan', cursive;;
+  font-size:3rem;
+  text-align: center;
+  padding-top: 1rem;
+  margin: 0;
+color: white;
+}
+
+
+#info1{
+  font-family:'Farsan', cursive;;
+  font-size:3rem;
+  text-align: center;
+  padding-top: 1rem;
+  margin: 0;
+color: black;
+}
+
+#main1{
+  font-family:'Farsan', cursive;
+  font-size:5rem;
+  text-align: center;
+color: white;
+text-underline-position:below;
+}
+#main2{
+  font-family:'Farsan', cursive;
+  font-size:3rem;
+  text-align: center;
+color: white;
+
+}
+#main3{
+  font-family:'Farsan', cursive;
+  font-size:10rem;
+
+color: white;
+
+}
+.footer {
+   position: bottom;
+   width: 100%;
+   height: 50%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+
+.container3{
+   background-image:url('../images/IMAGES/dandeli.jpg');
+   background-size:cover;
+   background-position:center;
+   background-repeat: no-repeat;
+   height: 100vh;
+   width:100%
+
+
+}
+#whole{
+  background-color:black;
+}

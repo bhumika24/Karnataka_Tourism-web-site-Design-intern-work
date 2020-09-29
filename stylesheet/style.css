@@ -1,0 +1,276 @@
+
+#head h1{
+  color:white;
+  font-size:45px;
+  margin-left: 35%;
+  padding:1rem;
+margin-bottom: -1rem;
+  line-height: 0.7em;
+  text-transform: uppercase;
+  font-weight: 100rem;
+  text-shadow: 3px 2px 0px white;
+font-family: 'Dancing Script', cursive;
+}
+#bg{
+  background-image:url('../gallery/b1.jpg');
+  background-size:cover;
+  background-position:center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width:100%;
+}
+
+#subtitle h4{
+  color:white;
+  font-family: 'Dancing Script', cursive;
+    margin-left: 55%;
+  font-size:20px;
+
+}
+
+#navigation li a{
+  margin-bottom: 10%;
+  font-size:3rem;
+  background-color: white;
+  color:transparent;
+  border:3px solid black;
+}
+
+#top{
+color:black;
+font-family:'Farsan', cursive;
+margin-left: 30%;
+}
+
+
+.float-img{
+  float:center;
+  margin-left: 0;
+  margin-bottom: 0;
+  border: solid black 5px;
+}
+
+#topnav ul{
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+#topnav ul li{
+  display: block;
+  position: relative;
+  float: left;
+}
+#topnav li ul{
+  display: none;
+}
+#topnav ul li a{
+  font-family: 'Dancing Script', cursive;
+  display: block;
+ padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  font-size: 3rem;
+  color: lightgrey;
+  white-space: nowrap;
+  padding-left: 5rem;
+}
+#topnav ul li a:hover{
+  font-size: 3rem;
+text-decoration: underline;
+
+}
+#topnav li:hover ul{
+  display: block;
+  position: absolute;
+}
+#topnav li:hover li{
+  float: none;
+}
+
+#topnav li:hover li a:hover
+{
+  font-size: 15px;
+}
+#topnav li ul li a{
+  border-top: 0px;
+  font-size: 18px;
+}
+#navigation li a{
+  font-size:2rem;
+  color:white;
+}
+#navigation li a:hover{
+    font-size:1.8rem;
+    font-variant: large-capital;
+background-color: blue;
+/*background-color: rgba(0,0,0,0);*/
+}
+#bag{
+   background-image:url('../gallery1/parvatha.jpg');
+   background-size:cover;
+   background-position:center;
+   background-repeat: no-repeat;
+   height: 100%;
+   width:100%;
+
+
+}
+
+#fbag{
+   background-image:url('../gallery/bb5.jpg');
+   background-size:cover;
+   background-position:center;
+   background-repeat: no-repeat;
+   height: 100%;
+   width:100%;
+
+
+}
+
+
+
+ #heading1{
+   font-family: 'Lato', sans-serif;
+   font-size:7rem;
+   text-align: center;
+   margin: 0;
+ color: white;
+}
+.back{
+  /*  background-image:url('../images/IMAGES/kali-river.jpg');*/
+    background-color: 'pink';
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width:100%
+
+
+}
+.container{
+    background-image:url('../images/IMAGES/back3.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    height: 100vh;
+    width:150%
+
+
+}
+
+
+.btn{
+  font-size:5rem;
+  padding:10px 20px;
+  margin-left: 62rem;
+}
+ .h1{
+  /* margin-left: 27rem;*/
+ margin-top:20rem;
+  color: blue;
+  font-family: 'Lato', sans-serif;
+  font-size: 35px;
+    text-align: center;
+
+
+}
+.h2{
+  font-family: 'Lato', sans-serif;
+  font-size: 35px;
+  color:red;
+   /*margin-left: 3rem;*/
+     text-align: center;
+}
+.b
+{
+  margin-top:10rem;
+  margin-left: centre;
+
+}
+.b{
+  color:black;
+}
+
+#locations {
+
+  background-color:white;
+  margin-bottom:20rem;
+
+}
+
+#heading{
+  font-family: 'Lato', sans-serif;
+  font-size:7rem;
+  text-align: center;
+  margin: 0;
+color: black;
+}
+
+#info{
+  font-family: 'Lato', sans-serif;
+  font-size:2rem;
+  text-align: justify;
+  padding-top: 1rem;
+  margin: 0;
+color: black;
+margin-left: 5rem;
+margin-right: 5rem;
+}
+
+
+#info1{
+  font-family: 'Lato', sans-serif;
+  font-size:3rem;
+  text-align: center;
+  padding-top: 1rem;
+  margin: 0;
+color: black;
+}
+
+#main{
+  font-family: 'Lato', sans-serif;
+  font-size:5rem;
+  text-align: center;
+color: black;
+
+}
+
+#main1{
+  font-family: 'Lato', sans-serif;
+  font-size:5rem;
+  text-align: center;
+color: black;
+text-decoration: underline;
+}
+#main2{
+  font-family: 'Lato', sans-serif;
+  font-size:3rem;
+  text-align: center;
+color: white;
+text-transform: capitalize;
+text-underline-position:below;
+}
+
+
+
+.container3{
+   background-image:url('../images/IMAGES/dandeli.jpg');
+   background-size:cover;
+   background-position:center;
+   background-repeat: no-repeat;
+   height: 100vh;
+   width:100%
+
+
+}
+#whole{
+  background-color:white;
+}
+
+/*<li><a href="#">Services</a>
+
+<ul id=drop-nav>
+  <li><a href="travel.html"></a></li>
+  <li><a href="hotel.html"></a></li>
+</ul>
+</li>*/

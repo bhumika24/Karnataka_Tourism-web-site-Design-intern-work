@@ -1,0 +1,138 @@
+.float-img{
+  float:center;
+  margin-left: 0;
+  margin-bottom: 0;
+  border: solid white 5px;
+
+}
+#th{
+  font-family:'Dancing script', cursive;
+  font-size:7rem;
+  text-align: center;
+  margin: 0;
+color: black;
+}
+
+#info{
+  font-family:'Farsan', cursive;;
+  font-size:3rem;
+  text-align: center;
+  padding-top: 1rem;
+  margin: 0;
+color: white;
+}
+
+
+#info1{
+  font-family:'Farsan', cursive;;
+  font-size:3rem;
+  text-align: center;
+  padding-top: 1rem;
+  margin: 0;
+color: black;
+}
+
+
+#whole{
+  background-color: black;
+}
+#center div {
+  height: 100vh;
+  margin-top:45px;
+}
+
+.textFormat{
+  font-size: 1.7rem;
+  color:black;
+   background-color: white;
+
+}
+.textFormat h1{
+  text-align: center;
+  border-bottom: 2px solid black;
+    margin-bottom: 0rem;
+    background-color: white;
+   font-family: 'Josefin Sans', sans-serif;
+   padding:2rem;
+}
+
+
+.textFormat p{
+  margin-bottom: 0rem;
+  padding:2rem;
+  background-color: lightgrey;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+
+}
+
+#t1{
+  margin-bottom: 0rem;
+  padding:2rem;
+  background-color: lightgrey;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 5rem;
+  color:#11123f
+}
+
+#t2{
+  background-color: lightgrey;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+#hotel{
+
+  background-image: url('../gallery/hotel.jpg');
+  background-attachment: fixed;
+ background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+
+#food{
+  background-image: url('../gallery/food.jpg');
+  background-attachment: fixed;
+ background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+
+#vehicle{
+  background-image: url('../gallery/car.jpg');
+  background-attachment: fixed;
+ background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+
+#guide{
+  background-image: url('../gallery/guide.jpg');
+  background-attachment: fixed;
+ background-size: 100%;
+  background-repeat: no-repeat;
+
+}
+
+
+#center1 div{
+  height: 100vh;
+  margin-top: 20px;
+
+}
+
+ #heading1{
+   font-family: 'Dancing Script', cursive;
+   font-size:8rem;
+   text-align: center;
+   margin: 0;
+ color: #11123f;
+ background-color: lightgrey;
+ text-decoration: underline;
+ }
+#text4{
+  margin-left:5rem;
+text-align: center;
+}
